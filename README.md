@@ -1,5 +1,4 @@
-# numeric-methods
 
-# Cool course!
+# Numeric methods. Cool course!
 
 Solving various and interesting tasks that greatly develop thinking and skills.
